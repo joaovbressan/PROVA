@@ -135,7 +135,7 @@ O ValidationOrchestrator gerencia a cadeia, timeouts e o rollback.
 🚀 Como Executar
 O projeto é composto por 4 pacotes (módulos) independentes. Cada módulo possui sua própria classe Demo (ex: Q1Demo.java, Q2Demo.java) com um método main.
 
-Clone o repositório:
+Clone o repositório:https://github.com/joaovbressan/PROVA.git
 
 Abra o projeto em sua IDE Java favorita (IntelliJ, Eclipse, VS Code).
 
